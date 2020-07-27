@@ -1,0 +1,4 @@
+viteza animatii butoane
+bara neagra cod
+cromatica cod
+ramane bara de viteza simulare daca dau inapoi;

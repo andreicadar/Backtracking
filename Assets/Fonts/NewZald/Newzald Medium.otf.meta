@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: bbbca6c2c44e5ee4c9bf089ee2f6d368
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Newzald
+  fontNames:
+  - Newzald
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a8f9a0d240ed8404bad82f21c0755aea, type: 3}
+  - {fileID: 12800000, guid: a1dd21456178f0a43a0b9ac0e04d5530, type: 3}
+  - {fileID: 12800000, guid: a5113986f74056842a5b3ed527c2f286, type: 3}
+  - {fileID: 12800000, guid: 71939ba8e5e1e9a498b9e8d4db1c7878, type: 3}
+  - {fileID: 12800000, guid: 1f0d33edc323da64099bda3f5a7f079d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

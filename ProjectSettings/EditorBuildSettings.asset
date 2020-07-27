@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/meniu.unity
+    guid: e0c684777b7381d4daea02a549137b96
+  - enabled: 1
+    path: Assets/Scenes/Permutari.unity
+    guid: 40ab7fbeae00de3448fe6c0a70a61225
+  - enabled: 1
+    path: Assets/Scenes/Teste.unity
+    guid: af6875f2e29bdc14893469fe1bc0b4f2
+  - enabled: 1
+    path: Assets/Scenes/Aranjamente.unity
+    guid: 7c4317d711e193e49ac1c79c1a511589
+  - enabled: 1
+    path: Assets/Scenes/Combinari.unity
+    guid: c3c0f3a1d7ee1d547bb938ce17baa733
+  - enabled: 1
+    path: Assets/Scenes/info.unity
+    guid: e7d759b12cfd34046bec365900f0f078
+  - enabled: 1
+    path: Assets/Scenes/Submultimi.unity
+    guid: 78898ebed6f0cd847ba46f58a95b66e5
+  - enabled: 1
+    path: Assets/Scenes/Prezentare Generala.unity
+    guid: 107347310a3a808428b59c2c061d089b
+  m_configObjects: {}
